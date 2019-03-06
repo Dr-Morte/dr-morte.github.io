@@ -1,1 +1,9 @@
+#Sets the theme to midnight
 theme: jekyll-theme-midnight
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://dr-morte.github.io"
+
+#Formats Jekyll blog urls
+permalink: /blog/:year/:month/:day/:title
